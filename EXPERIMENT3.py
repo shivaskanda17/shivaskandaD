@@ -29,3 +29,18 @@ print("concatenation:", s +" programming")
 
 s2 ="hello python "
 print("trim:",s2.strip())
+
+
+OP:
+original string: Hello python
+length: 12
+uppercase: HELLO PYTHON
+lowercase: hello python
+character at index 6: p
+position of python: 6
+slice: python
+replace: Hello world
+Hello python
+contains python: True
+concatenation: Hello python programming
+trim: hello python
