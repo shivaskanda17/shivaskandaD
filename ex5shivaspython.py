@@ -27,3 +27,18 @@ print("Tuple coverted to list:",l)
 
 t2 = tuple(l)
 print ("List converted to tuple:", t2)
+
+O/P
+Tuple: (10, 20, 30, 20, 40)
+First element: 10
+last element: 40
+Length: 5
+count of 20: 2
+Index of 30: 2
+Maximum: 40
+Minimum: 10
+Sum: 120
+is 40 present? True
+Tuple coverted to list: [10, 20, 30, 20, 40]
+List converted to tuple: (10, 20, 30, 20, 40)
+
