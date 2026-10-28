@@ -17,3 +17,17 @@ ovr.Fun("hi","bye")
 ovr.Fun("welcome","python")
 ovr.Fun(366,9234)
 ovr.Fun(3433.9, 5344.9)
+
+o/p
+this is with two arguments program
+12
+this is with two arguments program
+9.8
+this is with two arguments program
+hibye
+this is with two arguments program
+welcomepython
+this is with two arguments program
+9600
+this is with two arguments program
+8778.8
