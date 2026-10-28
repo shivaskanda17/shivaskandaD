@@ -18,3 +18,9 @@ class Derived(Base):
 ob=Derived()
 ob.show()
 ob.show()        
+
+o/p
+statement from base class
+statemnt from derived class
+statement from base class
+statemnt from derived class
