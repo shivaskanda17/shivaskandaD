@@ -5,18 +5,26 @@ Created on Wed Oct 28 08:14:09 2026
 @author: user
 """
 
-class one:
+class One:
     def show(self):
         print("no ragging")
-     def start(self):
+
+    def start(self):
         print("gods plan")
-class Two(one):
+
+
+class Two(One):
     def disp(self):
         print("Ruling in all sectors")
-        
- 
-ob=TWO() 
+
+
+ob = Two()
 ob.show()
 ob.start()
-ob.disp()       
-        
+ob.disp()      
+
+
+o/p
+no ragging
+gods plan
+Ruling in all sectors
